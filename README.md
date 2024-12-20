@@ -20,7 +20,7 @@ To get a local copy of this project up and running, follow these simple steps:
 
 Clone the repository:
 
-1. git clone https://github.com/yourusername/cat-walking-in-dark.git
+1. git clone https://github.com/tech.indro/cat-walking-in-dark.git
 
 2. Navigate to the project directory:
 cd cat-walking-in-dark
